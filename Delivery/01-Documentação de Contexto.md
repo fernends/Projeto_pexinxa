@@ -6,7 +6,10 @@ Mas e agora que grande parte da população já está imunizada e volta a freque
 A maioria dos restaurantes que trabalham com delivery utilizam-se de meios convencionais para realizar suas vendas, através de ligações telefônicas e mensagens. O uso de aplicativos como Ifood e aiqfome também tem ganhado muita força nesse segmento, todavia as taxas cobradas aos restaurantes e deliverys ultrapassam os 12% por venda, sendo inviável para pequenos estabelecimentos.***
 
 ## Problema
-***Este projeto busca solucionar a dificuldade de pequenas empresas, no ramo de deliverys de ter um site ou cardápio online acessível para impulsionar suas vendas, ou até mesmo um sistema para gerenciar seu estabelecimento.***
+***Este projeto busca solucionar a dificuldade de pequenas empresas, no ramo de deliverys de ter um site ou cardápio online acessível para impulsionar suas vendas, ou até mesmo um sistema para gerenciar seu estabelecimento.***<br>
+
+(------)'Empresas que ainda não aderiram á tecnologia de deliverys online, necessitam com urgência, o uso de aplicativos móveis com acessibilidade e rápidez para realizar pedidos online, para assim, atingirem um público maior de pessoas e impulsionar suas vendas.(------)
+
 
 ## Objetivos
 
