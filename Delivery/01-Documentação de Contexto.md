@@ -15,6 +15,8 @@ A maioria dos restaurantes que trabalham com delivery utilizam-se de meios conve
 
 ***O objetivo é criar um ambiente mais acessível e igualitário entre as empresas. Espera-se criar um sistema para restaurantes completo, possuindo uma loja virtual integrada, com um preço justo e isento de qualquer tipo de taxa.***
 
+O objetivo é democratizar o comércio digital, dando possibilidades para empresas pequenas terem visibildade em um ambiente de venda competitivo. Visando amplicar seu espaço comercial para além de vendas físicas.
+
 ## Justificativa
 
 ***Como pontuado, é de difícil acesso a pequenas empresas no ramo de deliverys um site ou cardápio online para impulsionar suas vendas, ou até mesmo um sistema para gerenciar seu estabelecimento, devido às altas taxas e preços cobrados pelas ferramentas disponíveis no mercado. O projeto visa dar acesso a empresas de pequeno porte a essas ferramentas, que muitas vezes não podem fazer um investimento para tê-las ou para aquelas que querem cortar gastos.***  
