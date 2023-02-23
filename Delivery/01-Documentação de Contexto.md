@@ -24,3 +24,5 @@ O objetivo é democratizar o comércio digital, dando possibilidades para empres
 ## Público-Alvo
 
 ***O foco da aplicação está direcionada para pequenas empresas que não podem arcar com os custos das aplicações disponíveis no mercado.***
+
+O publico alvo são, principalmente, as pequenas empresas para que possam expor seus produtos virtualmente, e clientes que querem fazer a comparação de preços antes de finalizarem uma compra.
