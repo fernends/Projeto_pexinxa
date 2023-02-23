@@ -5,6 +5,13 @@ Muitos negócios, inclusive, adotaram o modelo como forma de sobreviver à crise
 Mas e agora que grande parte da população já está imunizada e volta a frequentar os espaços coletivos, os negócios deixarão de usar o delivery? De acordo com um levantamento realizado pela consultoria Galunion, da Associação Nacional de Restaurantes (ANR) e do Instituto Foodservice Brasil (IFB), apontou que 85% pretendem manter o delivery mesmo após a retomada do serviço presencial com ocupação total.
 A maioria dos restaurantes que trabalham com delivery utilizam-se de meios convencionais para realizar suas vendas, através de ligações telefônicas e mensagens. O uso de aplicativos como Ifood e aiqfome também tem ganhado muita força nesse segmento, todavia as taxas cobradas aos restaurantes e deliverys ultrapassam os 12% por venda, sendo inviável para pequenos estabelecimentos.***
 
+Nos últimos anos, a pandemia global transformou o modo como vivemos e fazemos negócios. Com o aumento do distanciamento social e a necessidade de isolamento, muitas empresas tiveram que se adaptar rapidamente ao ambiente virtual para manter suas operações em funcionamento. Como resultado, houve um grande crescimento de ambientes virtuais, incluindo plataformas de comércio eletrônico e marketplaces online.
+
+No entanto, muitos pequenos negócios têm enfrentado desafios significativos para entrar nesse mercado digital em rápida expansão, especialmente aqueles que se concentram em dropshipping. A falta de grandes aplicativos dedicados a atender a essa demanda tem deixado muitos desses pequenos negócios lutando para competir com empresas maiores.
+
+É nesse contexto que surge a necessidade de um projeto que ofereça soluções eficazes e acessíveis para ajudar essas empresas a entrar no mercado digital e expandir suas operações.
+
+
 ## Problema
 ***Este projeto busca solucionar a dificuldade de pequenas empresas, no ramo de deliverys de ter um site ou cardápio online acessível para impulsionar suas vendas, ou até mesmo um sistema para gerenciar seu estabelecimento.***<br>
 
