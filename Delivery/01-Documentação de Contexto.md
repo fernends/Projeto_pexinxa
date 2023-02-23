@@ -8,21 +8,26 @@ A maioria dos restaurantes que trabalham com delivery utilizam-se de meios conve
 ## Problema
 ***Este projeto busca solucionar a dificuldade de pequenas empresas, no ramo de deliverys de ter um site ou cardápio online acessível para impulsionar suas vendas, ou até mesmo um sistema para gerenciar seu estabelecimento.***<br>
 
-(------)'Empresas que ainda não aderiram á tecnologia de deliverys online, necessitam com urgência, o uso de aplicativos móveis com acessibilidade e rápidez para realizar pedidos online, para assim, atingirem um público maior de pessoas e impulsionar suas vendas.(------)
+Empresas que ainda não aderiram à tecnologia de delivery online, necessitam com urgência, o uso de aplicativos móveis com acessibilidade e rapidez para realizar vendas online, para, assim, atingirem um público maior de pessoas e impulsionar suas vendas.
 
 
 ## Objetivos
 
 ***O objetivo é criar um ambiente mais acessível e igualitário entre as empresas. Espera-se criar um sistema para restaurantes completo, possuindo uma loja virtual integrada, com um preço justo e isento de qualquer tipo de taxa.***
 
-O objetivo é democratizar o comércio digital, dando possibilidades para empresas pequenas terem visibildade em um ambiente de venda competitivo. Visando amplicar seu espaço comercial para além de vendas físicas.
+O objetivo é democratizar o comércio digital, dando possibilidades para empresas pequenas terem visibilidade em um ambiente de venda competitivo. Visando ampliar seu espaço comercial para além de vendas físicas.
 
 ## Justificativa
 
-***Como pontuado, é de difícil acesso a pequenas empresas no ramo de deliverys um site ou cardápio online para impulsionar suas vendas, ou até mesmo um sistema para gerenciar seu estabelecimento, devido às altas taxas e preços cobrados pelas ferramentas disponíveis no mercado. O projeto visa dar acesso a empresas de pequeno porte a essas ferramentas, que muitas vezes não podem fazer um investimento para tê-las ou para aquelas que querem cortar gastos.***  
+***Como pontuado, é de difícil acesso a pequenas empresas no ramo de deliverys um site ou cardápio online para impulsionar suas vendas, ou até mesmo um sistema para gerenciar seu estabelecimento, devido às altas taxas e preços cobrados pelas ferramentas disponíveis no mercado. O projeto visa dar acesso a empresas de pequeno porte a essas ferramentas, que muitas vezes não podem fazer um investimento para tê-las ou para aquelas que querem cortar gastos.***
+
+Esse projeto visa auxiliar pequenos e médios comerciantes, que não tem estrutura e/ou condições de montar e manter um canal virtual, a ofertarem os seus produtos online de uma maneira fácil, descomplicada e dando a eles a tranquilidade de focar no que mais importa, na confecção de seus produtos. Isso dará a eles a oportunidade de aumentarem as suas vendas e, consequentemente, os seus faturamentos e lucros, uma vez que o seu produto ficará disponível para uma maior quantidade de consumidores.
+
+Daremos também a oportunidade de consumidores terem um leque maior de produtos feitos por pequenas e médias empresas, fugindo dos produtos produzidos em massa de grandes empresas e tendo oportunidade de adquirir produtos únicos, não encontrados em qualquer loja.
+
 
 ## Público-Alvo
 
 ***O foco da aplicação está direcionada para pequenas empresas que não podem arcar com os custos das aplicações disponíveis no mercado.***
 
-O publico alvo são, principalmente, as pequenas empresas para que possam expor seus produtos virtualmente, e clientes que querem fazer a comparação de preços antes de finalizarem uma compra.
+O público alvo são, principalmente, as pequenas empresas para que possam expor seus produtos virtualmente, e clientes que querem fazer a comparação de preços antes de finalizarem uma compra.
