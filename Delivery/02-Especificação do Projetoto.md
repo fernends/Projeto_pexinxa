@@ -3,13 +3,58 @@
 <span style="color:red">Pré-requisitos: <a href="01-Documentação de Contexto.md"> Documentação de Contexto</a></span>
 
 A definição exata do problema e os pontos mais relevantes a serem tratados neste projeto foi consolidada com a participação dos usuários em um trabalho de imersão feita pelos membros da equipe a partir da observação dos usuários em seu local natural e por meio de entrevistas. Os detalhes levantados nesse processo foram consolidados na forma de personas e histórias de usuários. 
-
+ 
 ## Personas
 
 As personas levantadas durante o processo de entendimento do problema são apresentadas na Figuras que se seguem. 
  
-
+<table>
+ <tbody>
+  <tr>
+   <td rowspan="3"><img src="img/people_images/blackmann.jpg" width="300"  /></td>
+   <td colspan="3"><strong> </strong></td>
+  </tr>
+  
+  <tr>
+   <td> Anos</td>
+   <td></td>
+   <td></td>
+  </tr>
+  
+  <tr>
+   <td colspan="3">
+    <strong>Personalidade</strong>: 
+   </td>
+  </tr>
+  
+  <tr>
+   <td colspan="4">
+    <strong>Biografia</strong>: 
+   </td>
+  </tr>
+  
+  <tr>
+   <td colspan="4">
+    <strong>Objetivos</strong>:  
+   </td>
+  </tr>
+  
+  <tr>
+   <td colspan="4">
+    <strong>Pontos de dor e frustração</strong>: 
+   </td>
+  </tr>
+  
+  <tr>
+   <td colspan="4">
+    <strong>Necessidades e expectativas</strong>: 
+   </td>
+  </tr>
+ </body>
+<table>
  
+ 
+ # ORIGINAL
 <table>
  <tbody>
   <tr>
@@ -151,6 +196,10 @@ A partir da compreensão do dia a dia das personas identificadas para o projeto,
 
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE`                                 |PARA ... `MOTIVO/VALOR`                                              |
 |--------------------|--------------------------------------------------------------------|---------------------------------------------------------------------|
+
+# ORIGINAL
+|EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE`                                 |PARA ... `MOTIVO/VALOR`                                              |
+|--------------------|--------------------------------------------------------------------|---------------------------------------------------------------------|
 |Maycon Lucas        | Cadastrar e modificar cadastros de clientes                        | Realização de futuros pedidos                                       |
 |Maycon Lucas        | Criar pedidos                                                      | Realizar vendas                                                     |
 |Maycon Lucas        | Imprimir os pedidos                                                | Criação do produto                                                  |
@@ -190,7 +239,11 @@ A partir da compreensão do dia a dia das personas identificadas para o projeto,
 O escopo funcional do projeto é definido por meio dos requisitos funcionais que descrevem as possibilidades interação dos usuários, bem como os requisitos não funcionais que descrevem os aspectos que o sistema deverá apresentar de maneira geral. Estes requisitos são apresentados a seguir. 
 
 ### Requisitos Funcionais
+ 
+|ID&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;     | Descrição do Requisito  | Prioridade |
+|-------|-----------------------------------------|----|
 
+# ORIGINAL
 |ID&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;     | Descrição do Requisito  | Prioridade |
 |-------|-----------------------------------------|----|
 |RF-01| A página de gestão da loja deve permitir criar/modificar/ excluir cadastro de clientes. |Alto
@@ -223,7 +276,11 @@ O escopo funcional do projeto é definido por meio dos requisitos funcionais que
 |RF-29| A página de gestão da loja deve permitir a opção de realização dos pedidos apenas com nome e número de telefone. |Alta.
 
 ### Requisitos não Funcionais
-
+ 
+| ID&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;        | Descrição do Requisito  |Prioridade |
+|-----------|-------------------------|----|
+ 
+# ORIGINAL
 | ID&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;        | Descrição do Requisito  |Prioridade |
 |-----------|-------------------------|----|
 |RNF-01     | A consulta do status do pedido deve demorar no máximo 4 segundos | ALTA | 
@@ -237,6 +294,10 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 |ID| Restrição                                             |
 |--|-------------------------------------------------------|
+
+# ORIGINAL 
+|ID| Restrição                                             |
+|--|-------------------------------------------------------|
 |01| A equipe não pode subcontratar o desenvolvimento do trabalho |
 |02| O projeto deverá ser entregue no final do semestre letivo |
 
@@ -244,6 +305,7 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
  
  ## Diagramas de Casos de Uso
  
+# ORIGINAL
 ![WhatsApp Image 2022-09-29 at 15 18 00](https://user-images.githubusercontent.com/98955531/193478194-627b6149-41d5-4c0a-bba2-8a589db432f0.jpeg)
 
 
