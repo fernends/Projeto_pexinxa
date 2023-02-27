@@ -52,6 +52,50 @@ As personas levantadas durante o processo de entendimento do problema são apres
   </tr>
  </body>
 <table>
+ <table>
+ <tbody>
+  <tr>
+   <td rowspan="3"><img src="" width="300"  /></td>
+   <td colspan="3"><strong> Marcos Sales</strong></td>
+  </tr>
+  
+  <tr>
+   <td>23 Anos</td>
+   <td>Alfenas </td>
+   <td>Programador</td>
+  </tr>
+  
+  <tr>
+   <td colspan="3">
+    <strong>Personalidade</strong>: Lógico, inovador e aventureiro.
+   </td>
+  </tr>
+  
+  <tr>
+   <td colspan="4">
+    <strong>Biografia</strong>: Desde pequeno conectado ao mundo tecnológico, Marcos conseguiu seu primeiro emprego como programador após muito estudo e dedicação, aos 23 anos.  Agora com uma rotina de trabalho home office, Marcos não consegue conciliar seu novo horário de trabalho com as demais tarefas do dia, como: Almoçar, jantar e fazer exercícios.  
+   </td>
+  </tr>
+  
+  <tr>
+   <td colspan="4">
+    <strong>Objetivos</strong>:  Ter um aplicativo rápido e facil onde é possível fazer pedidos  online.
+   </td>
+  </tr>
+  
+  <tr>
+   <td colspan="4">
+    <strong>Pontos de dor e frustração</strong>: Dificuldade de conciliar seu tempo de almoço e jantar com a nova rotina de trabalho
+   </td>
+  </tr>
+  
+  <tr>
+   <td colspan="4">
+    <strong>Necessidades e expectativas</strong>: Achar um aplicativo de delivery, com restaurantes e lanchonetes próximas, onde será possivel fazer o pedido online e  chegará em seu endereço rapidamente.
+   </td>
+  </tr>
+ </body>
+<table>
  
  
  # ORIGINAL
@@ -251,6 +295,7 @@ O escopo funcional do projeto é definido por meio dos requisitos funcionais que
 |RF-09  | A aplicação deve possibilitar a inclusão de várias fotos das mercadorias | Média |
 |RF-10  | A aplicação deve possuir um marcador de peças disponíveis de um produto | Média |
 |RF-11  | A aplicação deve possuir um canal de comunicação direto com os administradores dentro da área de login de usuários e empresas | Média |
+|RF-12  | A aplicação deve mostrar uma tela onde o cliente conseguirá visualizar se o pedido está em processamento ou não | Alta |
  
  
 # ORIGINAL
