@@ -54,6 +54,53 @@ As personas levantadas durante o processo de entendimento do problema são apres
 <table>
  
  
+ <table>
+ <tbody>
+  <tr>
+   <td rowspan="3"><img src = "img/people_images/ddddd.jpg" width="300" /></td>
+   <td colspan="3"><strong>Regina Costa</strong></td>
+  </tr>
+
+  <tr>
+   <td>28 Anos</td>
+   <td>Belo Horizonte</td>
+   <td>Geógrafa</td>
+  </tr>
+
+  <tr>
+   <td colspan="3">
+    <strong>Personalidade</strong>: Focada, comunicativa e compreensiva.
+   </td>
+  </tr>
+
+  <tr>
+   <td colspan="4">
+    <strong>Biografia</strong>: Géografa formada pela PUC Minas, trabalha em uma empresa de geoprocessamento. Adora estudar, buscar e compartilhar conhecimentos. Amante de trilhas, escaladas e esportes de aventura no geral.
+   </td>
+  </tr>
+
+  <tr>
+   <td colspan="4">
+    <strong>Objetivos</strong>: Ter um aplicativo no qual ela possa encontrar uma variedade de pequenas empresas, que seja possível comparar os preços e especificações dos produtos buscados.
+   </td>
+  </tr>
+
+  <tr>
+   <td colspan="4">
+    <strong>Pontos de dor e frustração</strong>: Aplicativos que não verificam a veracidade dos anunciantes, na tentativa de evitar possíveis golpes, além da complexidade em suas funções.
+   </td>
+  </tr>
+
+  <tr>
+   <td colspan="4">
+    <strong>Necessidades e expectativas</strong>: Encontrar um aplicativo simples, de fácil utilização e intuitivo, que filtre por produtos semelhantes, preço e demais atributos.
+   </td>
+  </tr>
+ </body>
+<table>
+
+ 
+ 
  # ORIGINAL
 <table>
  <tbody>
@@ -198,6 +245,8 @@ A partir da compreensão do dia a dia das personas identificadas para o projeto,
 |--------------------|--------------------------------------------------------------------|---------------------------------------------------------------------|
 |Kellen Araújo       | Uma aplicação simples de mexer                                     | Colocar sua mercadoria a venda online                               |
 |Kellen Araújo       | Poder colocar um limite de quantidade de produtos disponíveis      | Não vender mais do que tem em estoque ou sua capacidade de produzir |
+|Regina Costa        | Poder filtrar os produtos por preço, tipo, etc                     | Ajudar na decisão de compra                                         |
+|Regina Costa        | Ter um feedback de antigos compradores                             | Ter mais confiança na qualidade do produto e no anunciante          |
 
 
 # ORIGINAL
@@ -289,9 +338,9 @@ O escopo funcional do projeto é definido por meio dos requisitos funcionais que
  
 | ID&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;        | Descrição do Requisito  |Prioridade |
 |-----------|-------------------------|----|
-|RNF-01     | O site da aplicação deve ser responsivo | Alta |
-|RNF-02    |	O site da aplicação deve ser compatível com os principais navegadores	| Alta |
-|RNF-03	   | O site da aplicação deve ter acessibilidade digital, seguindo as regras da WCAG 2.1 conforme normas da W3C	| Média |
+|RNF-01     | O aplicativo deve ser responsivo | Alta |
+|RNF-02     |	O aplicativo deve ser compatível com os principais sistemas operacionais	| Alta |
+|RNF-03	    | O aplicativo deve ter acessibilidade digital, seguindo as regras da WCAG 2.1 conforme normas da W3C	| Média |
 |RNF-04     | O sistema deve ser responsivo e adaptável a resoluções maiores que 576px de largura | ALTA |
  
 # ORIGINAL
