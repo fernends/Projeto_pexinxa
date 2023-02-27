@@ -11,43 +11,43 @@ As personas levantadas durante o processo de entendimento do problema são apres
 <table>
  <tbody>
   <tr>
-   <td rowspan="3"><img src="img/people_images/blackmann.jpg" width="300"  /></td>
-   <td colspan="3"><strong> </strong></td>
+   <td rowspan="3"><img src="img/people_images/Kellen_araujo.jpg" width="300"  /></td>
+   <td colspan="3"><strong> Kellen Araújo</strong></td>
   </tr>
   
   <tr>
-   <td> Anos</td>
-   <td></td>
-   <td></td>
+   <td>43 Anos</td>
+   <td>Timóteo </td>
+   <td>Artesã</td>
   </tr>
   
   <tr>
    <td colspan="3">
-    <strong>Personalidade</strong>: 
+    <strong>Personalidade</strong>: Prestativa, detalhista e dedicada
    </td>
   </tr>
   
   <tr>
    <td colspan="4">
-    <strong>Biografia</strong>: 
+    <strong>Biografia</strong>: Decidiu não cursar a faculdade para se dedicar a sua paixão, que é costurar. Montou em sua casa uma pequena atelie e fabrica vários tipos de roupas para vender. Não é sempre que ela vende na sua localidade todas as peças de roupas que produz e gostaria de vender seus produtos online. Sem muito conhecimento nessa área, ela não se arrisca a anunciar em alguns sites por serem complicados demais.
    </td>
   </tr>
   
   <tr>
    <td colspan="4">
-    <strong>Objetivos</strong>:  
+    <strong>Objetivos</strong>:  Ter um site com um sistema simplificado para poder anunciar a sua mercadoria e aumentar a sua venda além de sua localidade.
    </td>
   </tr>
   
   <tr>
    <td colspan="4">
-    <strong>Pontos de dor e frustração</strong>: 
+    <strong>Pontos de dor e frustração</strong>: Dificuldade de encontrar uma aplicação onde seja simples e barato para ela utilizar sem dificuldades
    </td>
   </tr>
   
   <tr>
    <td colspan="4">
-    <strong>Necessidades e expectativas</strong>: 
+    <strong>Necessidades e expectativas</strong>: Abrir uma conta virtual em um site de vendas para vender os seus produtos para além de sua localidade.
    </td>
   </tr>
  </body>
@@ -196,6 +196,9 @@ A partir da compreensão do dia a dia das personas identificadas para o projeto,
 
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE`                                 |PARA ... `MOTIVO/VALOR`                                              |
 |--------------------|--------------------------------------------------------------------|---------------------------------------------------------------------|
+|Kellen Araújo       | Uma aplicação simples de mexer                                     | Colocar sua mercadoria a venda online                               |
+|Kellen Araújo       | Poder colocar um limite de quantidade de produtos disponíveis      | Não vender mais do que tem em estoque ou sua capacidade de produzir |
+
 
 # ORIGINAL
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE`                                 |PARA ... `MOTIVO/VALOR`                                              |
@@ -229,11 +232,6 @@ A partir da compreensão do dia a dia das personas identificadas para o projeto,
 
 
 
-
-
-
-
-
 ## Requisitos
 
 O escopo funcional do projeto é definido por meio dos requisitos funcionais que descrevem as possibilidades interação dos usuários, bem como os requisitos não funcionais que descrevem os aspectos que o sistema deverá apresentar de maneira geral. Estes requisitos são apresentados a seguir. 
@@ -242,7 +240,19 @@ O escopo funcional do projeto é definido por meio dos requisitos funcionais que
  
 |ID&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;     | Descrição do Requisito  | Prioridade |
 |-------|-----------------------------------------|----|
-
+|RF-01  | A aplicação deve apresentar a funcionalidade de buscador (search)    | Alto |
+|RF-02  | A aplicação deve apresentar categorias de produtos para facilitar a busca dos usuários | Alto |
+|RF-03  | A aplicação deve apresentar mecanismos para avaliação dos estabelecimentos através de comentário e notas | Alto |
+|RF-04  | A aplicação deve possuir um filtro para refinar a busca do usuário | Alto |
+|RF-05  | A aplicação deve possuir uma área de login para que o usuário possa fazer suas compras | Alta |
+|RF-06  | A aplicação deve possuir uma área de login para as empresas fazer a gestão de suas vendas | Alta |
+|RF-07  | A aplicação deve possuir uma área para cadastrar novos usuários e empresas | Alta |
+|RF-08  | A aplicação deve possuir dentro da área de login da empresa um resumo de feedback dos usuários | Baixo |
+|RF-09  | A aplicação deve possibilitar a inclusão de várias fotos das mercadorias | Média |
+|RF-10  | A aplicação deve possuir um marcador de peças disponíveis de um produto | Média |
+|RF-11  | A aplicação deve possuir um canal de comunicação direto com os administradores dentro da área de login de usuários e empresas | Média |
+ 
+ 
 # ORIGINAL
 |ID&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;     | Descrição do Requisito  | Prioridade |
 |-------|-----------------------------------------|----|
@@ -279,6 +289,10 @@ O escopo funcional do projeto é definido por meio dos requisitos funcionais que
  
 | ID&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;        | Descrição do Requisito  |Prioridade |
 |-----------|-------------------------|----|
+|RNF-01     | O site da aplicação deve ser responsivo | Alta |
+|RNF-02    |	O site da aplicação deve ser compatível com os principais navegadores	| Alta |
+|RNF-03	   | O site da aplicação deve ter acessibilidade digital, seguindo as regras da WCAG 2.1 conforme normas da W3C	| Média |
+|RNF-04     | O sistema deve ser responsivo e adaptável a resoluções maiores que 576px de largura | ALTA |
  
 # ORIGINAL
 | ID&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;        | Descrição do Requisito  |Prioridade |
@@ -293,7 +307,10 @@ O escopo funcional do projeto é definido por meio dos requisitos funcionais que
 O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 |ID| Restrição                                             |
-|--|-------------------------------------------------------|
+|-----|-------------------------------------------------------|
+|RE-01| A equipe não pode subcontratar o desenvolvimento do trabalho |
+|RE-02| O projeto deverá ser entregue no final do semestre letivo |
+|RE-03|A aplicação só poderá ser lançado se os requisitos de funcionalidade e acessibilidade quando forem atendidas |
 
 # ORIGINAL 
 |ID| Restrição                                             |
