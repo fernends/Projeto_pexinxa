@@ -176,13 +176,13 @@ As personas levantadas durante o processo de entendimento do problema são apres
 
   <tr>
    <td colspan="4">
-    <strong>Aplicativos onde ja há possuem monopólios e não ajudam empreendimentos novos.
+    <strong>Pontos de dor e frustração</strong>: Aplicativos onde ja há possuem monopólios e não ajudam empreendimentos novos.
    </td>
   </tr>
 
   <tr>
    <td colspan="4">
-    <strong>Um aplicativo que seja igualitário e dê oportunidade a todos.
+    <strong>Necessidades e expectativas</strong>: Um aplicativo que seja igualitário e dê oportunidade a todos.
    </td>
   </tr>
  </body>
@@ -227,7 +227,7 @@ As personas levantadas durante o processo de entendimento do problema são apres
   
   <tr>
    <td colspan="4">
-    <strong>Necessidades e expectativas</strong>:Encontrar um aplicativo de fácil interação, para assim, facilitar os processos de anúncio e vendas de seus produtos.
+    <strong>Necessidades e expectativas</strong>: Encontrar um aplicativo de fácil interação, para assim, facilitar os processos de anúncio e vendas de seus produtos.
    </td>
   </tr>
  </body>
