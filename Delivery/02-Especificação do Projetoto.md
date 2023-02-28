@@ -146,7 +146,7 @@ As personas levantadas durante o processo de entendimento do problema são apres
  <table>
  <tbody>
   <tr>
-   <td rowspan="3"><img src="img/people_images/depositphotos_11194393-stock-photo.jpg" width="300" height="300"  /></td>
+   <td rowspan="3"><img src="img/people_images/1149-1119.jpg.jpg" width="300" height="300"  /></td>
    <td colspan="3"><strong>Carlos Alberto</strong></td>
   </tr>
 
