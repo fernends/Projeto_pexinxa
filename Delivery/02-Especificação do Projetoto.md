@@ -482,6 +482,8 @@ O escopo funcional do projeto é definido por meio dos requisitos funcionais que
 |RNF-02     |	O aplicativo deve ser compatível com os principais sistemas operacionais	| Alta |
 |RNF-03	    | O aplicativo deve ter acessibilidade digital, seguindo as regras da WCAG 2.1 conforme normas da W3C	| Média |
 |RNF-04     | O sistema deve ser responsivo e adaptável a resoluções maiores que 576px de largura | ALTA |
+|RNF-05     | O sistema deve ser fácil de usar e entender | ALTA |
+|RNF-06     | O sistema deve estar disponível quando necessário | ALTA |
  
 # ORIGINAL
 | ID&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;        | Descrição do Requisito  |Prioridade |
