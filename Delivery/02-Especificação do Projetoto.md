@@ -142,6 +142,51 @@ As personas levantadas durante o processo de entendimento do problema são apres
   </tr>
  </body>
 <table>
+ 
+ <table>
+ <tbody>
+  <tr>
+   <td rowspan="3"><img src = "img/people_images/depositphotos_11194393-stock-photo" width="300" /></td>
+   <td colspan="3"><strong>Carlos Alberto</strong></td>
+  </tr>
+
+  <tr>
+   <td>36 Anos</td>
+   <td>Belo Horizonte</td>
+   <td>Desempregado</td>
+  </tr>
+
+  <tr>
+   <td colspan="3">
+    <strong>Personalidade</strong>: Sonhador, determinado e comunicativo.
+   </td>
+  </tr>
+
+  <tr>
+   <td colspan="4">
+    <strong>Biografia</strong>: Já teve diversos empregos porém encontra dificuldades em ficar em um emprego por muito tempo. Pois sempre sonhou em ter uma formação em administração e ter seu próprio negócio.
+   </td>
+  </tr>
+
+  <tr>
+   <td colspan="4">
+    <strong>Objetivos</strong>: Começar seu empreendimento simples onde consiga dar seus primeiros passos.
+   </td>
+  </tr>
+
+  <tr>
+   <td colspan="4">
+    <strong>Aplicativos onde ja há possuem monopólios e não ajudam empreendimentos novos.
+   </td>
+  </tr>
+
+  <tr>
+   <td colspan="4">
+    <strong>Um aplicativo que seja igualitário e dê oportunidade a todos.
+   </td>
+  </tr>
+ </body>
+<table>
 
  
  
