@@ -371,7 +371,7 @@ As personas levantadas durante o processo de entendimento do problema são apres
  </body>
 <table>
 
-## Histórias de Usuários
+## ]s de Usuários
 
 A partir da compreensão do dia a dia das personas identificadas para o projeto, foram registradas as seguintes histórias de usuários. 
 
@@ -381,6 +381,8 @@ A partir da compreensão do dia a dia das personas identificadas para o projeto,
 |Kellen Araújo       | Poder colocar um limite de quantidade de produtos disponíveis      | Não vender mais do que tem em estoque ou sua capacidade de produzir |
 |Regina Costa        | Poder filtrar os produtos por preço, tipo, etc                     | Ajudar na decisão de compra                                         |
 |Regina Costa        | Ter um feedback de antigos compradores                             | Ter mais confiança na qualidade do produto e no anunciante          |
+|Carlos Alberto      | Um aplicativo que dê feedback sobre seu estabelecimento            | Conseguir identificar como está gerenciando seu negócio             |
+|Carlos Alberto      | Ter contato com os administradores                                 | Ter a segurança de que há um canal de comunicação no caso de problemas |
 
 
 # ORIGINAL
