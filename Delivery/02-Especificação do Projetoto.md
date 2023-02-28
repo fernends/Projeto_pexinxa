@@ -187,6 +187,51 @@ As personas levantadas durante o processo de entendimento do problema são apres
   </tr>
  </body>
 <table>
+ 
+ <table>
+ <tbody>
+  <tr>
+   <td rowspan="3"><img src="img/people_images/Raphael Costa.jpg" width="300"  /></td>
+   <td colspan="3"><strong> Raphael Costa</strong></td>
+  </tr>
+  
+  <tr>
+   <td>31 Anos</td>
+   <td>São Paulo </td>
+   <td>Empresário</td>
+  </tr>
+  
+  <tr>
+   <td colspan="3">
+    <strong>Personalidade</strong>: Comunicativo, dedicado e esforçado.
+   </td>
+  </tr>
+  
+  <tr>
+   <td colspan="4">
+    <strong>Biografia</strong>: Atualmente trabalha em sua loja, não possui formação acadêmica, adora ler sobre economia para tentar alavancar seu negócio.
+   </td>
+  </tr>
+  
+  <tr>
+   <td colspan="4">
+    <strong>Objetivos</strong>:  Ter acesso a um aplicativo no qual facilitará a venda de seus produtos de forma fácil e direta com o consumidor.
+   </td>
+  </tr>
+  
+  <tr>
+   <td colspan="4">
+    <strong>Pontos de dor e frustração</strong>: Dificuldade de verificar seus produtos anunciados e as vendas efetuadas por meio de aplicativos de conversa online.
+   </td>
+  </tr>
+  
+  <tr>
+   <td colspan="4">
+    <strong>Encontrar um aplicativo de fácil interação, para assim, facilitar os processos de anúncio e vendas de seus produtos.
+   </td>
+  </tr>
+ </body>
+<table>
 
  
  
