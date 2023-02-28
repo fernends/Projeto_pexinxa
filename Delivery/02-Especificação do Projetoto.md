@@ -371,7 +371,7 @@ As personas levantadas durante o processo de entendimento do problema são apres
  </body>
 <table>
 
-## ]s de Usuários
+## Histórias de Usuários
 
 A partir da compreensão do dia a dia das personas identificadas para o projeto, foram registradas as seguintes histórias de usuários. 
 
@@ -383,6 +383,7 @@ A partir da compreensão do dia a dia das personas identificadas para o projeto,
 |Regina Costa        | Ter um feedback de antigos compradores                             | Ter mais confiança na qualidade do produto e no anunciante          |
 |Carlos Alberto      | Um aplicativo que dê feedback sobre seu estabelecimento            | Conseguir identificar como está gerenciando seu negócio             |
 |Carlos Alberto      | Ter contato com os administradores                                 | Ter a segurança de que há um canal de comunicação no caso de problemas |
+|Raphael Costa       | Poder editar dados dos produtos anunciados.                        | Realizar alterações de dados de produtos.                           |
 
 
 # ORIGINAL
@@ -437,6 +438,8 @@ O escopo funcional do projeto é definido por meio dos requisitos funcionais que
 |RF-10  | A aplicação deve possuir um marcador de peças disponíveis de um produto | Média |
 |RF-11  | A aplicação deve possuir um canal de comunicação direto com os administradores dentro da área de login de usuários e empresas | Média |
 |RF-12  | A aplicação deve mostrar uma tela onde o cliente conseguirá visualizar se o pedido está em processamento ou não | Alta |
+|RF-13  | A aplicação deve permitir a edição dos dados do anúncio. | Alta |
+|RF-14  | A aplicação deve permitir a criação de anúncios. | Alta |
  
  
 # ORIGINAL
