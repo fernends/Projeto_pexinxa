@@ -151,7 +151,7 @@ As personas levantadas durante o processo de entendimento do problema são apres
   </tr>
 
   <tr>
-   <td>36 Anos</td>
+   <td>42 Anos</td>
    <td>Belo Horizonte</td>
    <td>Desempregado</td>
   </tr>
