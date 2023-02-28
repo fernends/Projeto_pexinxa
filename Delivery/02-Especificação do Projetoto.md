@@ -55,7 +55,7 @@ As personas levantadas durante o processo de entendimento do problema são apres
  <table>
  <tbody>
   <tr>
-   <td rowspan="3"><img src="" width="300"  /></td>
+   <td rowspan="3"><img src="img/people_images/whitemann.jpg" width="300"  /></td>
    <td colspan="3"><strong> Marcos Sales</strong></td>
   </tr>
   
