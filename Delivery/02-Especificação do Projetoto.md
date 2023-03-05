@@ -260,8 +260,9 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
  
  Os casos de uso devem representar as interações dos atores com o sistema, cada tipo é representado por uma forma oval rotulada e as relações são indicadas por linhas que podem ter setas nos casos em que se indica a origem da interação. Os nomes dos casos de uso devem representar verbos no infinitivo de acordo com os objetos que se relacionam os verbos. Os tipos de relacionamentos mais comuns são associações entre atores e casos de uso, generalização entre atores e entre casos de uso, inclusões e extensões entre casos de uso.
  
-
- ## Matriz de Rastreabilidade
+![Diagrama de Casos de Uso](img/Diagrama_de_Casos_de_Uso-Pexinxa.png)
+ 
+ # Matriz de Rastreabilidade
  
  Utilizada para facilitar a visualização dos relacionamentos entre os requisitos e outros artefatos do projeto, a matriz deve contemplar todos os elementos relevantes que fazem parte do sistema.
  
@@ -273,7 +274,7 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
  
  O gerente de projetos pode utilizar desse recurso para agendar e coordenar tarefas dentro de um projeto fazendo a estimativa de tempo necessário para a conclusão.
  
- <img src="img/Gerenciamento_de_tempo.png" width="600"  /> 
+ <img src="img/Gerenciamento_de_equipe.png" width="600"  /> 
  
  ## Gerenciamento de Equipe
  
