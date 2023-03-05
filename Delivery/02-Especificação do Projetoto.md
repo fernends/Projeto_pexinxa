@@ -258,6 +258,8 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
  
  ## Diagramas de Casos de Uso
  
+ Os casos de uso devem representar as interações dos atores com o sistema, cada tipo é representado por uma forma oval rotulada e as relações são indicadas por linhas que podem ter setas nos casos em que se indica a origem da interação. Os nomes dos casos de uso devem representar verbos no infinitivo de acordo com os objetos que se relacionam os verbos. Os tipos de relacionamentos mais comuns são associações entre atores e casos de uso, generalização entre atores e entre casos de uso, inclusões e extensões entre casos de uso.
+ 
 
  ## Matriz de Rastreabilidade
  
@@ -265,9 +267,17 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
  
  # Gerenciamento de Projeto
  
+ Segundo o PMBoK v6 existem dez áreas que constituem os pilares para gerenciar projetos, e que caracterizam a multidisciplinaridade envolvida, são elas: Integração, Escopo, Cronograma (Tempo), Custos, Qualidade, Recursos, Comunicações, Riscos, Aquisições, Partes Interessadas. Elas se complementam e se relacionam, de tal forma que não se deve apenas examinar uma área de forma isolada. É preciso considerar, por exemplo, que as áreas de Escopo, Cronograma e Custos estão muito relacionadas. Assim, se o escopo de um projeto é ampliado pode-se afetar seu cronograma e seus custos.
+ 
  ## Gerenciamento de Tempo
+ 
+ O gerente de projetos pode utilizar desse recurso para agendar e coordenar tarefas dentro de um projeto fazendo a estimativa de tempo necessário para a conclusão.
  
  ## Gerenciamento de Equipe
  
+ É fundamental que ocorra a gestão de tarefas e de pessoas, de modo que os times envolvidos no projeto possam ser facilmente gerenciados.
+ 
  ## Gestão de Orçamento 
+ 
+ O processo de determinar o orçamento do projeto é uma tarefa que depende, além dos produtos dos processos anteriores do gerenciamento de custos, também de produtos oferecidos por outros processos de gerenciamento, como o escopo e o tempo.
 
