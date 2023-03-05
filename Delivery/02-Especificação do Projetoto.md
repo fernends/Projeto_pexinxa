@@ -259,4 +259,15 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
  ## Diagramas de Casos de Uso
  
 
+ ## Matriz de Rastreabilidade
+ 
+ Utilizada para facilitar a visualização dos relacionamentos entre os requisitos e outros artefatos do projeto, a matriz deve contemplar todos os elementos relevantes que fazem parte do sistema.
+ 
+ # Gerenciamento de Projeto
+ 
+ ## Gerenciamento de Tempo
+ 
+ ## Gerenciamento de Equipe
+ 
+ ## Gestão de Orçamento 
 
