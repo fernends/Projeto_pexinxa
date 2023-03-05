@@ -273,7 +273,7 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
  
  O gerente de projetos pode utilizar desse recurso para agendar e coordenar tarefas dentro de um projeto fazendo a estimativa de tempo necessário para a conclusão.
  
- <img src="img/Gerenciamento_de_equipe.png" width="600"  /> 
+ <img src="img/Gerenciamento_de_tempo.png" width="600"  /> 
  
  ## Gerenciamento de Equipe
  
