@@ -224,7 +224,7 @@ O escopo funcional do projeto é definido por meio dos requisitos funcionais que
 |RF-08  | A aplicação deve possuir dentro da área de login da vendedores um resumo de feedback dos usuários | Baixo |
 |RF-09  | A aplicação deve possuir um mecanismo de inclusão dos produtos disponívies dos vendedores | Alta |
 |RF-10  | A aplicação deve possuir um local de perguntas e resposta na descrição do produto | Baixa |
-|RF-11  | A aplicação deve possuir um canal de comunicação entre compradores e vendedores para pós venda | Média |
+|RF-11  | A aplicação deve possuir um canal de comunicação entre compradores e vendedores para pós venda | Meédia |
 |RF-12  | A aplicação deve possuir um canal de comunicação direto com os administradores dentro da área de login de usuários | Média |
 |RF-13  | A aplicação deve mostrar uma tela onde o cliente conseguirá visualizar o status do pedido | Alta |
 |RF-14  | A aplicação deve permitir a edição dos dados do anúncio | Alta |
@@ -238,9 +238,9 @@ O escopo funcional do projeto é definido por meio dos requisitos funcionais que
 |RNF-01     | O aplicativo deve ser responsivo | Alta |
 |RNF-02     |	O aplicativo deve ser compatível com os principais sistemas operacionais	| Alta |
 |RNF-03	    | O aplicativo deve ter acessibilidade digital, seguindo as regras da WCAG 2.1 conforme normas da W3C	| Média |
-|RNF-04     | O sistema deve ser responsivo e adaptável a resoluções menores que 768px de largura | Alta |
-|RNF-05     | O sistema deve ser fácil de usar e entender | Alta |
-|RNF-06     | O sistema deve estar disponível quando necessário | Alta |
+|RNF-04     | O sistema deve ser responsivo e adaptável a resoluções menores que 768px de largura | ALTA |
+|RNF-05     | O sistema deve ser fácil de usar e entender | ALTA |
+|RNF-06     | O sistema deve estar disponível quando necessário | ALTA |
  
 
 ## Restrições
@@ -266,6 +266,8 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
  
  Utilizada para facilitar a visualização dos relacionamentos entre os requisitos e outros artefatos do projeto, a matriz deve contemplar todos os elementos relevantes que fazem parte do sistema.
  
+ <img src="img/Matriz de rastreabilidade.jpg" width="1000"  />
+ 
  # Gerenciamento de Projeto
  
  Segundo o PMBoK v6 existem dez áreas que constituem os pilares para gerenciar projetos, e que caracterizam a multidisciplinaridade envolvida, são elas: Integração, Escopo, Cronograma (Tempo), Custos, Qualidade, Recursos, Comunicações, Riscos, Aquisições, Partes Interessadas. Elas se complementam e se relacionam, de tal forma que não se deve apenas examinar uma área de forma isolada. É preciso considerar, por exemplo, que as áreas de Escopo, Cronograma e Custos estão muito relacionadas. Assim, se o escopo de um projeto é ampliado pode-se afetar seu cronograma e seus custos.
@@ -274,14 +276,14 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
  
  O gerente de projetos pode utilizar desse recurso para agendar e coordenar tarefas dentro de um projeto fazendo a estimativa de tempo necessário para a conclusão.
  
- ![Planilha de Gerenciamento de Tempo](img/Gerenciamento_de_tempo.png)
+ <img src="img/Gerenciamento_de_tempo.png" width="600"  />
  
  
  ## Gerenciamento de Equipe
  
  É fundamental que ocorra a gestão de tarefas e de pessoas, de modo que os times envolvidos no projeto possam ser facilmente gerenciados.
 
-  ![Planilha Gerenciamento de Equipe](img/Gerenciamento_de_equipe.png)
+  ![Planilha GErenciamento de Equipe](img/Gerenciamento_de_equipe.png)
  
  ## Gestão de Orçamento 
  
