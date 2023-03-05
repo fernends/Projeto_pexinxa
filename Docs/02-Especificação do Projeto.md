@@ -266,7 +266,7 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
  
  Utilizada para facilitar a visualização dos relacionamentos entre os requisitos e outros artefatos do projeto, a matriz deve contemplar todos os elementos relevantes que fazem parte do sistema.
  
- <img src="img/Matriz de rastreabilidade.jpg" width="1000"  />
+ <img src="img/Matriz _de_rastreabilidade.jpg" width="1000"  />
  
  # Gerenciamento de Projeto
  
