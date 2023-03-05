@@ -52,50 +52,7 @@ As personas levantadas durante o processo de entendimento do problema são apres
   </tr>
  </body>
 <table>
- <table>
- <tbody>
-  <tr>
-   <td rowspan="3"><img src="img/people_images/whitemann.jpg" width="300"  /></td>
-   <td colspan="3"><strong> Marcos Sales</strong></td>
-  </tr>
-  
-  <tr>
-   <td>23 Anos</td>
-   <td>Alfenas </td>
-   <td>Programador</td>
-  </tr>
-  
-  <tr>
-   <td colspan="3">
-    <strong>Personalidade</strong>: Lógico, inovador e aventureiro.
-   </td>
-  </tr>
-  
-  <tr>
-   <td colspan="4">
-    <strong>Biografia</strong>: Desde pequeno conectado ao mundo tecnológico, Marcos conseguiu seu primeiro emprego como programador após muito estudo e dedicação, aos 23 anos.  Agora com uma rotina de trabalho home office, Marcos não consegue conciliar seu novo horário de trabalho com as demais tarefas do dia, como: Almoçar, jantar e fazer exercícios.  
-   </td>
-  </tr>
-  
-  <tr>
-   <td colspan="4">
-    <strong>Objetivos</strong>:  Ter um aplicativo rápido e facil onde é possível fazer pedidos  online.
-   </td>
-  </tr>
-  
-  <tr>
-   <td colspan="4">
-    <strong>Pontos de dor e frustração</strong>: Dificuldade de conciliar seu tempo de almoço e jantar com a nova rotina de trabalho
-   </td>
-  </tr>
-  
-  <tr>
-   <td colspan="4">
-    <strong>Necessidades e expectativas</strong>: Achar um aplicativo de delivery, com restaurantes e lanchonetes próximas, onde será possivel fazer o pedido online e  chegará em seu endereço rapidamente.
-   </td>
-  </tr>
- </body>
-<table>
+ 
  
  
  <table>
@@ -259,18 +216,19 @@ O escopo funcional do projeto é definido por meio dos requisitos funcionais que
 |-------|-----------------------------------------|----|
 |RF-01  | A aplicação deve apresentar a funcionalidade de buscador (search)    | Alto |
 |RF-02  | A aplicação deve apresentar categorias de produtos para facilitar a busca dos usuários | Alto |
-|RF-03  | A aplicação deve apresentar mecanismos para avaliação dos estabelecimentos através de comentário e notas | Alto |
-|RF-04  | A aplicação deve possuir um filtro para refinar a busca do usuário | Alto |
+|RF-03  | A aplicação deve apresentar mecanismos para avaliação dos estabelecimentos através de comentário e notas | Médio |
+|RF-04  | A aplicação deve possuir um filtro para refinar a busca do usuário | Médio |
 |RF-05  | A aplicação deve possuir uma área de login para que o usuário possa fazer suas compras | Alta |
-|RF-06  | A aplicação deve possuir uma área de login para as empresas fazer a gestão de suas vendas | Alta |
-|RF-07  | A aplicação deve possuir uma área para cadastrar novos usuários e empresas | Alta |
-|RF-08  | A aplicação deve possuir dentro da área de login da empresa um resumo de feedback dos usuários | Baixo |
-|RF-09  | A aplicação deve possibilitar a inclusão de várias fotos das mercadorias | Média |
-|RF-10  | A aplicação deve possuir um marcador de peças disponíveis de um produto | Média |
-|RF-11  | A aplicação deve possuir um canal de comunicação direto com os administradores dentro da área de login de usuários e empresas | Média |
-|RF-12  | A aplicação deve mostrar uma tela onde o cliente conseguirá visualizar se o pedido está em processamento ou não | Alta |
-|RF-13  | A aplicação deve permitir a edição dos dados do anúncio. | Alta |
-|RF-14  | A aplicação deve permitir a criação de anúncios. | Alta |
+|RF-06  | A aplicação deve possuir uma área de login para as vendedores fazer a gestão de suas vendas | Alta |
+|RF-07  | A aplicação deve possuir uma área para cadastrar novos usuários e vendedores | Alta |
+|RF-08  | A aplicação deve possuir dentro da área de login da vendedores um resumo de feedback dos usuários | Baixo |
+|RF-09  | A aplicação deve possuir um mecanismo de inclusão dos produtos disponívies dos vendedores | Alta |
+|RF-10  | A aplicação deve possuir um local de perguntas e resposta na descrição do produto | Baixa |
+|RF-11  | A aplicação deve possuir um canal de comunicação entre compradores e vendedores para pós venda | Meédia |
+|RF-12  | A aplicação deve possuir um canal de comunicação direto com os administradores dentro da área de login de usuários | Média |
+|RF-13  | A aplicação deve mostrar uma tela onde o cliente conseguirá visualizar o status do pedido | Alta |
+|RF-14  | A aplicação deve permitir a edição dos dados do anúncio | Alta |
+|RF-15  | A aplicação deve possuir um sacola de compra | Baixa |
  
  
 ### Requisitos não Funcionais
@@ -280,7 +238,7 @@ O escopo funcional do projeto é definido por meio dos requisitos funcionais que
 |RNF-01     | O aplicativo deve ser responsivo | Alta |
 |RNF-02     |	O aplicativo deve ser compatível com os principais sistemas operacionais	| Alta |
 |RNF-03	    | O aplicativo deve ter acessibilidade digital, seguindo as regras da WCAG 2.1 conforme normas da W3C	| Média |
-|RNF-04     | O sistema deve ser responsivo e adaptável a resoluções maiores que 576px de largura | ALTA |
+|RNF-04     | O sistema deve ser responsivo e adaptável a resoluções menores que 768px de largura | ALTA |
 |RNF-05     | O sistema deve ser fácil de usar e entender | ALTA |
 |RNF-06     | O sistema deve estar disponível quando necessário | ALTA |
  
@@ -293,10 +251,23 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 |-----|-------------------------------------------------------|
 |RE-01| A equipe não pode subcontratar o desenvolvimento do trabalho |
 |RE-02| O projeto deverá ser entregue no final do semestre letivo |
-|RE-03|A aplicação só poderá ser lançado se os requisitos de funcionalidade e acessibilidade quando forem atendidas |
+|RE-03| A aplicação só poderá ser lançado se os requisitos de funcionalidade e acessibilidade quando forem atendidas |
+|RE-04| A apliação será desenvolvida na linguagem React |
+
 
  
  ## Diagramas de Casos de Uso
  
 
+ ## Matriz de Rastreabilidade
+ 
+ Utilizada para facilitar a visualização dos relacionamentos entre os requisitos e outros artefatos do projeto, a matriz deve contemplar todos os elementos relevantes que fazem parte do sistema.
+ 
+ # Gerenciamento de Projeto
+ 
+ ## Gerenciamento de Tempo
+ 
+ ## Gerenciamento de Equipe
+ 
+ ## Gestão de Orçamento 
 
